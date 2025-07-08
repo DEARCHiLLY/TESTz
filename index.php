@@ -19,5 +19,13 @@
             line-height: 1.6;
         }
     </style>
+</head>
+
+<body>
+    <h1>Welcome to the Test Page</h1>
+    <p>This is a simple HTML page to test the server configuration.</p>
+    <p>Make sure your server is set up correctly to serve this page.</p>
+    <p>If you see this page, your server is working fine!</p>
+</body>
 
 </html>
